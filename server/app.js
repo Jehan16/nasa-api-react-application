@@ -9,7 +9,7 @@ authRoutes = require('./routes/auth')
 userRoutes = require('./routes/user')
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://it21804342:' + process.env.MONGO_ATLAS_PW + '@cluster0.hr4qoux.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect('mongodb+srv://jehan:' + process.env.MONGO_ATLAS_PW + '@cluster0.yb5okjz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
     tls: true,
     serverSelectionTimeoutMS: 5000
 }).then(() => {
