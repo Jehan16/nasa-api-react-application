@@ -9,6 +9,7 @@ authRoutes = require('./routes/auth')
 userRoutes = require('./routes/user')
 
 // Connect to MongoDB
+// updated the backend
 mongoose.connect('mongodb+srv://jehan:' + process.env.MONGO_ATLAS_PW + '@cluster0.yb5okjz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
     tls: true,
     serverSelectionTimeoutMS: 5000
