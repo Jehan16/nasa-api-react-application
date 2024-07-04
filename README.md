@@ -112,3 +112,5 @@ This report discusses the integration of the NASA API for fetching Astronomy Pic
 ## Conclusion
 
 Integration of the NASA APOD and Mars Rover Photos APIs into the React application was successfully accomplished despite challenges. By employing resolutions like using a proxy server, effective state management, and error handling, the application provides a seamless experience showcasing captivating imagery from NASA's missions.
+
+## how to deploy
