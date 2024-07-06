@@ -112,7 +112,7 @@ footer button i {
     flex-direction: column;
     gap: 1rem;
     padding: 1rem;
-    overflow-y: scroll;
+    /* overflow-y: scroll; removed the scrollbar */
     height: 100%;
     width: 90%;
     max-width: 800px;
