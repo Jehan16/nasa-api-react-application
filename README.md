@@ -1,3 +1,5 @@
+checkout the live site https://jehan-silva-nasa-api.netlify.app/
+
 # NASA APOD and Mars Rover Photos React Application
 
 Welcome to the NASA APOD and Mars Rover Photos React Application! This application allows you to explore stunning imagery from NASA's Astronomy Picture of the Day and the Mars Rover missions.
