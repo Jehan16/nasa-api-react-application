@@ -7,7 +7,7 @@ Welcome to the NASA APOD and Mars Rover Photos React Application! This applicati
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sliitcsse/se3040-assignment02-JehanSilva.git
+   git clone https://github.com/Jehan16/nasa-api-react-application.git
    ```
 
 2. **Navigate into the project directory:**
